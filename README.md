@@ -1,11 +1,21 @@
 # resume-upload
 
-## Setup python env
+## Setup
 ```shell
 python -m venv venv
 ```
 
-install dependencies
+Active python veritural environment
+Windows
+```shell
+.\venv\Scripts\activate.bat
+```
+Linux
+```shell
+source venv/bin/activate
+```
+
+Install dependencies
 ```shell
 pip install -r requirements.txt
 ```

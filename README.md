@@ -10,7 +10,7 @@ install dependencies
 pip install -r requirements.txt
 ```
 
-Download TUS binary from (tus.io)[https://github.com/tus/tusd/releases/tag/v2.9.1] and Extract it to `bin/tusd.exe` for windows or `bin/tusd` for linux.
+Download TUS binary from [tus.io](https://github.com/tus/tusd/releases/tag/v2.9.1) and Extract it to `bin/tusd.exe` for windows or `bin/tusd` for linux.
 
 
 Run the server 
